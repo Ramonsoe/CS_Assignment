@@ -2,4 +2,6 @@
 * JT Harvey, Applied Ergonomics, 2002  
 * DW Ziegler et al., 2005  
 
-csvtomd istherecorrelation.csv
+Here's an plot of both W0 and liters of beer:
+
+![Plot](figure_1.png)
